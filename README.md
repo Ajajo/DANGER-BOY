@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="Size:BplqHh5.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="DANGERBOY" src="https://img.shields.io/badge/DANGERBOY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="pikachu" src="https://img.shields.io/badge/pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajajo"><img title="Author" src="https://img.shields.io/badge/Author-Ajajo/DANGERBOY?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumathodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumathodi/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ajajo">Ajajo</a> to make it public
+Project created by <a href="https://github.com/ameer-kallumathodi">ameer-kallumathodi</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/Ajajo">Ajajo</a> to make it publi
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Ajajo/DANGERBOY">
-    <img src="https://img.shields.io/github/repo-size/Ajajo/DANGERBOY?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/ameer-kallumathodi/pikachu">
+    <img src="https://img.shields.io/github/repo-size/ameer-kallumathodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Ajajo/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajajo?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Ajajo/DANGERBOY/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajajo/DANGERBOY?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Ajajo/DANGERBOY/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajajo/DANGERBOY?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Ajajo/DANGERBOY/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ajajo/DANGERBOY?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumathodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumathodi?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumathodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumathodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumathodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumathodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumathodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumathodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -40,9 +40,9 @@ Project created by <a href="https://github.com/Ajajo">Ajajo</a> to make it publi
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajajo&show_icons=true&theme=nightowl" alt="Ajajo" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumathodi&show_icons=true&theme=nightowl" alt="ameer-kallumathodi" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajajo&theme=nightowl" alt="Ajajo" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumathodi&theme=nightowl" alt="ameer-kallumathodi" /></p>
 </details> </div>
 
 
@@ -55,7 +55,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click DANGERBOY logo to Join Support Group 2👇
+Click pikachu logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -68,7 +68,7 @@ Click DANGERBOY logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajajo/DANGERBOY.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumathodi/pikachu.git)
      </div>
 <br>
 <br >
@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Ajajo/DANGERBOY
-$ cd DANGERBOY
+$ git clone https://github.com/ameer-kallumathodi/pikachu
+$ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajajo/DANGERBOY
-$ cd DANGERBOY
+$ git clone https://github.com/ameer-kallumathodi/pikachu
+$ cd pikachu
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,9 +114,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Ajajo](https://github.com/Ajajo.png?size=100)](https://github.com/Ajajo) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![ameer-kallumathodi](https://github.com/ameer-kallumathodi.png?size=100)](https://github.com/ameer-kallumathodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[Ajajo](https://github.com/Ajajo)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[ameer-kallumathodi](https://github.com/ameer-kallumathodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
